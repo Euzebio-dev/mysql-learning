@@ -9,6 +9,7 @@ I will update this repository for everything new i learn.
 <summary><b>What did i learn until now?</b></summary>
  
 > Basic SQL syntax
+
 > DDL
 
 > DML
