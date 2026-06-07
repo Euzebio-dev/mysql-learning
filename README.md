@@ -1,6 +1,18 @@
-# my learning SQL
-SQL script for managment, filtering, ordering and performance
-as someone who is new to the tech area, this is my very attempt on learning it.
-here i will simulate problems and fixing them, this repository is not a system, but soon i will
-make working systems, this is where i see myself. I will explain my code in messages, so even if you dont know
-what it is, it should be able to help you out. i will update this when i finish learning it.
+# ![SQL](https://shields.io)
+ My learning SQL
+SQL script for management, filtering and ordering.
+As someone who is new to the tech area, this is my progress on how im understanding it.
+here i will simulate problems and fixing them. 
+I will explain my code in messages, so even if you don't know
+what it is, it will help you out. 
+I will update this repository for everything new i learn.
+<details>
+<summary><b>What did i learn until now?</b></summary>
+> Basic SQL syntax
+> DDL
+> DML
+> Aggregate queries
+> Data constraints
+> Join Queries
+> Subqueries
+</details>
