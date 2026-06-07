@@ -1,5 +1,4 @@
-# ![SQL](https://shields.io)
- My learning SQL
+# ![My SQL learning](https://shields.io)
 SQL script for management, filtering and ordering.
 As someone who is new to the tech area, this is my progress on how im understanding it.
 here i will simulate problems and fixing them. 
@@ -9,10 +8,10 @@ I will update this repository for everything new i learn.
 <details>
 <summary><b>What did i learn until now?</b></summary>
 > Basic SQL syntax
-> DDL
-> DML
-> Aggregate queries
-> Data constraints
-> Join Queries
-> Subqueries
+ DDL
+ DML
+ Aggregate queries
+ Data constraints
+ Join Queries
+ Subqueries
 </details>
