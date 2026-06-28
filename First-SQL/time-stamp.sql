@@ -20,6 +20,6 @@ SELECT
     issued_date, --here it will return 2026-06-27
     activation_time, --here it will return 22:15:00
     created_at, --here it returns 2026-06-27 22:15:00
-    DATE_PART('year', issued_date) AS issued_year, --returns the year it got from the issued date and calls it issued_year
+    YEAR(issued_date) AS issued_year, --returns the year it got from the issued date and calls it issued_year
     DATE_ADD(issued_date, INTERVAL 2 YEAR) AS expiration_date --gets the issued date and adds 2 years to it and calls it 'expiration_date'
 FROM credit_cards;
