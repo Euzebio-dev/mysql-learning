@@ -1,3 +1,9 @@
+/*
+=================================================
+        Exercise 6 : date and time
+=================================================
+*/
+
 CREATE TABLE credit_cards (
     card_id INT PRIMARY KEY,
     card_number VARCHAR(16),
